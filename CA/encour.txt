@@ -1,0 +1,15 @@
+Algo CyberAnima.
+
+il serait interessant de confronté des stats, donc de les générer et de les consuter pour voir l'evolution des création.  
+
+pour le random, l'utilisation de seed peut etre drole = on donne un titre ça nous génére la musique adéquate selon le moment où elle est faite
+dans quel sens le programme va composer ? 
+
+en créant instru? ou la structure ? ou les track ? ou les pazttern ?
+ou on randomise l'ordre (ce qui ferai un critére interessant aussi pour sortir des tableau de stat et de ressemblance (schema) qui se repéte par rapport au note.
+
+algo creation proto:
+
+-generé un pattern rythmique qui s'etale sur toute la durée
+-créer une melodie puis une harmonie
+
